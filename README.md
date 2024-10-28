@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     
     🌱 I'm currently learning **Redis, Tailwind, React Native Expo** 
     
-    💭 Ask me about **React, Node.js, MongoDB, FireBase... or anything [here]("https://github.com/Imtiaz4530/Imtiaz4530/issues)**
+    💭 Ask me about **React, Node.js, MongoDB, FireBase**
     
     ⚡Fun fact **Game of Thrones Night's Watch clocks are made from Ikea rugs**
     
